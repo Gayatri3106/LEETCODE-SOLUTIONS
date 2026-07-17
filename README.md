@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
+| [0518-coin-change-ii](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -71,4 +72,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0022-generate-parentheses) |
+| [0518-coin-change-ii](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
