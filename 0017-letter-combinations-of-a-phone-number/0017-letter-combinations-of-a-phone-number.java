@@ -1,23 +1,29 @@
-import java.util.*;
-
 public class Solution {
-    private String[] map = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+    String[] options = {"", "", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
+    StringBuilder path;
+    ArrayList<String> allPaths;
 
     public List<String> letterCombinations(String digits) {
-        List<String> res = new ArrayList<>();
-        if (digits.isEmpty()) return res;
-        dfs(0, "", digits, res);
-        return res;
+        path = new StringBuilder();
+        allPaths = new ArrayList<>();
+        
+        if (digits == null || digits.length() == 0) {
+            return allPaths;
+        }
+        
+        helper(digits, 0);
+        return allPaths;
     }
 
-    private void dfs(int i, String s, String d, List<String> res) {
-        if (i == d.length()) {
-            res.add(s);
-            return;
+    public void helper(String digits, int i) {
+        if (i == digits.length()) {
+            allPaths.add(path.toString());
+            return; 
         }
-        String letters = map[d.charAt(i) - '0'];
-        for (char c : letters.toCharArray()) {
-            dfs(i + 1, s + c, d, res);
+        for (char ch : options[digits.charAt(i) - '0'].toCharArray()) {
+            path.append(ch);
+            helper(digits, i + 1);
+            path.setLength(path.length() - 1); 
         }
     }
 }
