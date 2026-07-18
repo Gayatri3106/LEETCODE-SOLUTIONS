@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0018-4sum) |
+| [0200-number-of-islands](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -78,18 +79,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
