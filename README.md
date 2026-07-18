@@ -81,20 +81,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
+| [0684-redundant-connection](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
