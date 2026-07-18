@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0518-coin-change-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,14 +95,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0684-redundant-connection](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0200-number-of-islands) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
