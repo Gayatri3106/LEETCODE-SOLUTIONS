@@ -79,4 +79,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/0322-coin-change) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Gayatri3106/LEETCODE-SOLUTIONS/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
